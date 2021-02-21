@@ -1,0 +1,11 @@
+.Tilt {
+  
+    border-radius: 15px;
+    background: linear-gradient(to left,rgb(152, 202, 231)0%,rgb(80, 132, 230)100%);
+}
+
+.left{
+    display: flex;
+    justify-content: left;
+  }
+  
